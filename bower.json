@@ -18,5 +18,12 @@
     "type": "git",
     "url": "git@github.com:teraponR/tapatar.git"
   },  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "license": "MIT"
 }
